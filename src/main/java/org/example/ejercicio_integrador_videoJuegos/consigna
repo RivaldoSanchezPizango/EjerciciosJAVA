@@ -1,0 +1,23 @@
+crear una clase llamada VideoJuego, que tenga los
+siguientes atributos:
+-- codigo
+-- titulo
+-- consola
+-- cantidadJugadores
+-- categoria (tener en cuenta todos sus atributos, constructores, metodos getters y setters)
+
+**
+Crear un ArrayList de tipo videoJuego. crear 5
+videoJuegos y guardarlos en collection
+
+**
+Recorrer la ArrayList creada y mostrar por pantalla el titulo. consola
+y cantidad de jugadores de los videoJuegos almacenados
+
+**
+Cambiar el nombre y la cantidad de jugadores de dos videoJuegos. Mostrar
+por pantalla los datos de todos los videojuegos luego del cambio
+
+**
+Recorrer la ArrayList y mostrar por pantalla unicamente a los videojuegos
+que sean la consola "NINTENDO 64"
